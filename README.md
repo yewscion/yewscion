@@ -44,7 +44,7 @@ documenting more code under [Free Software Licenses][fsfl].
 - Homepage: https://cdr255.com/
 - LinkedIn: https://www.linkedin.com/in/cdr255
 - Mastodon: https://tech.lgbt/web/@yewscion
-- Email: <a href="javascript:location='mailto:\u0063\u0064\u0072\u0032\u0035\u0035\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d';void 0"><script type="text/javascript">document.write('\u0063\u0064\u0072\u0032\u0035\u0035\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d')</script></a>
+- Email: &#x79;&#x65;&#x77;&#x73;&#x63;&#x69;&#x6F;&#x6E;&#x40;&#x67;&#x6D;&#x61;&#x69;&#x6C;&#x2E;&#x63;&#x6F;&#x6D;
 
 ![A Portrait of Me At Work](https://github.com/yewscion/yewscion/blob/trunk/assets/portrait.jpg)
 
