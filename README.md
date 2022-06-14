@@ -46,7 +46,7 @@ documenting more code under [Free Software Licenses][fsfl].
 - Mastodon: https://tech.lgbt/web/@yewscion
 - Email: <a href="javascript:location='mailto:\u0063\u0064\u0072\u0032\u0035\u0035\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d';void 0"><script type="text/javascript">document.write('\u0063\u0064\u0072\u0032\u0035\u0035\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d')</script></a>
 
-![A Portrait of Me At Work](https://github.com/get-itips/get-itips/blob/trunk/portrait.jpg)
+![A Portrait of Me At Work](https://github.com/yewscion/yewscion/blob/trunk/portrait.jpg)
 
 [acmj]: https://www.acm.org/publications/journals
 [amzn]: https://www.aboutamazon.com/what-we-do/delivery-logistics
