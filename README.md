@@ -1,13 +1,13 @@
-![A Glider from the Game of Life](https://github.com/yewscion/yewscion/blob/trunk/assets/glider.gif)
-
 # Christopher Rodriguez - @yewscion (and @cdr255)
+
+![A Glider from the Game of Life](https://github.com/yewscion/yewscion/blob/trunk/assets/glider.gif)
 
 Hey there! 😊 My name is Christopher Rodriguez. 
 
 ## My Interests
 
 I consider myself a [Technologist][tchn] with interests in <abbr
-title="Free/Libre and Open Source Software>FLOSS</abbr> and more generally
+title="Free/Libre and Open Source Software">FLOSS</abbr> and more generally
 [Computer Science][cmsc]. I am an advocate for the [GNU/Linux][intr] Operating
 System (I personally use [GNU Guix][guix] as my daily driver), and I love
 [Lisps][lisp] in all their forms, though especially [GNU Guile][guil] (a
