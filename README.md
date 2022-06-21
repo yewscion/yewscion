@@ -4,6 +4,10 @@
 
 Hey there! 😊 My name is Christopher Rodriguez. 
 
+**Note:** I mostly host my source code repositories (the public ones) on my
+[sourcehut profile][srht], not here. These are, for all intents and purposes,
+mirrors, though I do keep them up to date.
+
 ## My Interests
 
 I consider myself a [Technologist][tchn] with interests in <abbr
